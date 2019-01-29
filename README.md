@@ -3,7 +3,7 @@ Roulette Style Game using Windows Forms and C#
 
 How to Play?
 
--> Clone the Repository
+-> Clone/Download the Repository
 
 -> Install Using the installer.exe
 
