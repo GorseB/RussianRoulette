@@ -5,7 +5,7 @@ How to Play?
 
 -> Clone/Download the Repository
 
--> Install Using the installer.exe
+-> Run Roulette.exe
 
 -> Select a Place for your ship
 
