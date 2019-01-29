@@ -1,0 +1,6 @@
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Release\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Release\Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Release\UnitTestProject1.pdb

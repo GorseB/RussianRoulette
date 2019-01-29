@@ -1,0 +1,12 @@
+C:\Users\Siah\documents\visual studio 2015\Projects\RussianRoulette\RussianRoulette\bin\Release\RussianRoulette.exe.config
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\bin\Release\RussianRoulette.exe.config
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\bin\Release\RussianRoulette.exe
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\bin\Release\RussianRoulette.pdb
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.csprojResolveAssemblyReference.cache
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.g.resources
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.Form1.resources
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.Properties.Resources.resources
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.csproj.GenerateResource.cache
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.csproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.exe
+C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\RussianRoulette\obj\Release\RussianRoulette.pdb
