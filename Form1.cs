@@ -133,9 +133,9 @@ namespace RussianRoulette
             GameStats.textinfo[0] = GameStats.GamesPlayed.ToString();
             GameStats.textinfo[1] = GameStats.Won.ToString();
             GameStats.textinfo[2] = GameStats.Lost.ToString();
-            File.WriteAllText(@"../../Scores.txt", String.Empty);
+            File.WriteAllText(@"./Scores.txt", String.Empty);
             using (System.IO.StreamWriter file =
-    new System.IO.StreamWriter(@"../../Scores.txt", true))
+    new System.IO.StreamWriter(@"./Scores.txt", true))
             {
                 file.WriteLine(GameStats.textinfo[0].ToString());
                 file.WriteLine(GameStats.textinfo[1].ToString());
@@ -144,7 +144,7 @@ namespace RussianRoulette
         }
         private void Getthescores()
         {
-            GameStats.textinfo = System.IO.File.ReadAllLines(@"../../Scores.txt");
+            GameStats.textinfo = System.IO.File.ReadAllLines(@"./Scores.txt");
             GameStats.GamesPlayed = Convert.ToInt32(GameStats.textinfo.GetValue(0));
             GameStats.Won = Convert.ToInt32(GameStats.textinfo.GetValue(1));
             GameStats.Lost = Convert.ToInt32(GameStats.textinfo.GetValue(2));

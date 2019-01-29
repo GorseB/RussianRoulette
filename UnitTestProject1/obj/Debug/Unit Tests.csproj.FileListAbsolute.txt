@@ -3,9 +3,9 @@ D:\RussianRoulette\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
 D:\RussianRoulette\UnitTestProject1\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
 D:\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\Unit Tests.csproj.CoreCompileInputs.cache
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\josia\source\repos\RussianRoulette\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\josia\Desktop\RussianRoulette-ca7a89aa23823f53a34235c2523b13e5930b9ad3\RussianRoulette-master\RussianRoulette\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
