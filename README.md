@@ -1,7 +1,7 @@
 # RussianRoulette
 How to Play?
 
--> Clone/Download the Repository
+-> Download the Roulette.exe File (Go To Releases)
 
 -> Run Roulette.exe
 
