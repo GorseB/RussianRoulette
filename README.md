@@ -1,6 +1,4 @@
 # RussianRoulette
-Roulette Style Game using Windows Forms and C#
-
 How to Play?
 
 -> Clone/Download the Repository
