@@ -10,3 +10,5 @@ How to Play?
 -> Load and Fire the Missiles.
 
 Enjoy! :D
+
+This game was made as part of a group of assignments dealing with windows forms.
