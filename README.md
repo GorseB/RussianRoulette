@@ -11,4 +11,4 @@ How to Play?
 
 Enjoy! :D
 
-This game was made as part of a group of assignments dealing with windows forms.
+This game was made as part of a group of assignments dealing with Windows Forms.
