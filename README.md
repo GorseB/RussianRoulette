@@ -1,9 +1,7 @@
 # RussianRoulette
-Roulette Style Game using Windows Forms and C#
-
 How to Play?
 
--> Clone/Download the Repository
+-> Download the Roulette.exe File (Go To Releases)
 
 -> Run Roulette.exe
 
@@ -12,3 +10,5 @@ How to Play?
 -> Load and Fire the Missiles.
 
 Enjoy! :D
+
+This game was made as part of a group of assignments dealing with Windows Forms.
