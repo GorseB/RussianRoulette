@@ -1,4 +1,4 @@
-# RussianRoulette
+# Space Russian Roulette Game
 How to Play?
 
 -> Download the Roulette.exe File (Go To Releases)
